@@ -11,7 +11,7 @@ ncurses
 Install
 -----
 Your computer must have installed ncurses. and run your terminal and input
-        make
+		make
 and then 
-        ./a.out
+		./a.out
 
